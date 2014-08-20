@@ -1,0 +1,20 @@
+# Site settings
+title: RebateHero brought to you by TurboPenny
+email: accounts@turbopenny.com
+description: > # this means to ignore newlines until "baseurl:"
+  Rebatehero.com is an informational site that helps users save time and money
+  by providing information on rebates. Before participating in any rebate offer
+  on this site, please read the fine print associated with each rebate. All
+  rebates available on this site are subject to change without notice.
+  TurboPenny, LLC does not guarantee the accuracy or validity of links,
+  rebates, or deals on this site. Any references to names, marks, products or
+  services of third parties or hypertext links to third party sites or
+  information do not constitute or imply TurboPenny LLC's endorsement,
+  affiliation, sponsorship or recommendation of the third party.
+baseurl: ""
+url: "http://turbopenny.com"
+twitter_username: rebatehero
+facebook_username: rebatehero
+
+# Build settings
+markdown: kramdown
