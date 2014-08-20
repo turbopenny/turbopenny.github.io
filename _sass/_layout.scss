@@ -6,8 +6,9 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
-    background: url(../images/header-background.jpg) center repeat-x;
-    height: 101px;
+    border-bottom: 5px solid $blue-color;
+    background-color: darken($grey-color-dark, 10%);
+    min-height: 100px;
     color: #fff;
     a {
       text-decoration: none;
