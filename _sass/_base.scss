@@ -216,3 +216,11 @@ pre {
   margin-bottom: -3px;
   background-position: 0 -16px;
 }
+
+.page-heading a {
+  color: darken($blue-color, 5%);
+  &:hover {
+    text-decoration: none;
+    font-weight: bold;
+  }
+}
