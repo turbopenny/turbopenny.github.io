@@ -200,4 +200,19 @@ pre {
             fill: $grey-color;
         }
     }
+    display: inline-block;
+    background: url(../images/icons.png);
+    background-repeat: no-repeat;
+    width: 20px;
+    height: 18px;
+  }
+
+.icon--facebook {
+  margin-bottom: -3px;
+  background-position: 0 0;
+}
+
+.icon--twitter {
+  margin-bottom: -3px;
+  background-position: 0 -16px;
 }
