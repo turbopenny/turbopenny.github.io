@@ -36,4 +36,8 @@ RebateHero.com makes the process nearly effortless by gathering and organizing a
 Whether you are a novice or a pro, an online or offline shopper, contemplating a large or small purchase, RebateHero.com makes it easy for you to find and redeem the rebates that will save you real money.
 
 ##About Turbo Penny, LLC
+
+CEO, [Annmarie Lanesey](http://www.linkedin.com/in/amlanesey)<br>
+CTO, [Joseph Payette, Jr.](http://linkedin.com/pub/joseph-payette-jr/17/9b2/677)
+
 Turbo Penny, LLC, helps consumers spend their money carefully and save it wisely. It helps companies reach savvy consumers by publicizing customer incentive programs.
