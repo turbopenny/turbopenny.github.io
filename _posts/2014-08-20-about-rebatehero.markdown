@@ -37,7 +37,7 @@ Whether you are a novice or a pro, an online or offline shopper, contemplating a
 
 ##About Turbo Penny, LLC
 
-CEO, [Annmarie Lanesey](http://www.linkedin.com/in/amlanesey)<br>
-CTO, [Joseph Payette, Jr.](http://linkedin.com/pub/joseph-payette-jr/17/9b2/677)
+Chief Executive Officer, Annmarie Lanesey -- [LinkedIn](http://www.linkedin.com/in/amlanesey)<br>
+Chief Technology Officer, Joseph Payette, Jr. -- [LinkedIn](http://linkedin.com/pub/joseph-payette-jr/17/9b2/677)
 
 Turbo Penny, LLC, helps consumers spend their money carefully and save it wisely. It helps companies reach savvy consumers by publicizing customer incentive programs.
